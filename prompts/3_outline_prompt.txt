@@ -1,0 +1,1 @@
+Generate an outline of this chapter as it is right now. Make sure to use a numbered and nested list in markdown format. Capture all the main points and details.
